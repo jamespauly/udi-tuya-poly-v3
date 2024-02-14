@@ -1,0 +1,104 @@
+{
+    "result": [
+        {
+            "active_time": 1707854748,
+            "biz_type": 0,
+            "category": "cz",
+            "create_time": 1707520745,
+            "icon": "smart/icon/ay1520841223016QQVmI/6827870b6840a09e3fb3783ebe15d7eb.png",
+            "id": "ebe787d6619538e68fxl5l",
+            "ip": "76.236.222.131",
+            "lat": "33.7599",
+            "local_key": "Vm|Zx#+itwTQxQ>?",
+            "lon": "-84.3000",
+            "model": "",
+            "name": "Smart Outdoor Plug",
+            "online": true,
+            "owner_id": "66612135",
+            "product_id": "4ac7sdyiz7fr0eeq",
+            "product_name": "Smart Outdoor Plug",
+            "status": [
+                {
+                    "code": "switch_1",
+                    "value": false
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "relay_status",
+                    "value": "last"
+                },
+                {
+                    "code": "light_mode",
+                    "value": "relay"
+                },
+                {
+                    "code": "child_lock",
+                    "value": false
+                }
+            ],
+            "sub": false,
+            "time_zone": "-05:00",
+            "uid": "az16476349622503MbZr",
+            "update_time": 1707873754,
+            "uuid": "415a20ad9e8d838a"
+        },
+        {
+            "active_time": 1707853372,
+            "biz_type": 0,
+            "category": "cz",
+            "create_time": 1707520686,
+            "icon": "smart/icon/ay1520841223016QQVmI/6827870b6840a09e3fb3783ebe15d7eb.png",
+            "id": "eb70e5cea4d82b7468yplq",
+            "ip": "76.236.222.131",
+            "lat": "33.7599",
+            "local_key": "9h!:|x}Z=0PBXKm6",
+            "lon": "-84.3000",
+            "model": "",
+            "name": "Smart Outdoor Plug 2",
+            "online": true,
+            "owner_id": "66612135",
+            "product_id": "4ac7sdyiz7fr0eeq",
+            "product_name": "Smart Outdoor Plug",
+            "status": [
+                {
+                    "code": "switch_1",
+                    "value": false
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "relay_status",
+                    "value": "last"
+                },
+                {
+                    "code": "light_mode",
+                    "value": "relay"
+                },
+                {
+                    "code": "child_lock",
+                    "value": false
+                }
+            ],
+            "sub": false,
+            "time_zone": "-05:00",
+            "uid": "az16476349622503MbZr",
+            "update_time": 1707873716,
+            "uuid": "07ffc0f1ac9c3cc9"
+        }
+    ],
+    "success": true,
+    "t": 1707873805513,
+    "tid": "a673ae8bcad711eeb7c20e270b2c3942",
+    "file": {
+        "name": "tuya-raw.json",
+        "description": "Full raw list of Tuya devices.",
+        "account": "nr3ms3gnydd35uvxfhes",
+        "date": "2024-02-13T20:23:25.551069",
+        "tinytuya": "1.13.1"
+    }
+}

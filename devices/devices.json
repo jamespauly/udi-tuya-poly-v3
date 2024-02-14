@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Smart Outdoor Plug 3",
+        "id": "ebe787d6619538e68fxl5l",
+        "key": "Vm|Zx#+itwTQxQ>?",
+        "mac": "50:8b:b9:4c:b8:d8",
+        "uuid": "415a20ad9e8d838a",
+        "category": "cz",
+        "product_name": "Smart Outdoor Plug",
+        "product_id": "4ac7sdyiz7fr0eeq",
+        "biz_type": 0,
+        "model": "",
+        "sub": false,
+        "icon": "https://images.tuyaus.com/smart/icon/ay1520841223016QQVmI/6827870b6840a09e3fb3783ebe15d7eb.png",
+        "mapping": {
+            "1": {
+                "code": "switch_1",
+                "type": "Boolean",
+                "values": {}
+            },
+            "9": {
+                "code": "countdown_1",
+                "type": "Integer",
+                "values": {
+                    "unit": "s",
+                    "min": 0,
+                    "max": 86400,
+                    "scale": 0,
+                    "step": 1
+                }
+            },
+            "38": {
+                "code": "relay_status",
+                "type": "Enum",
+                "values": {
+                    "range": [
+                        "power_off",
+                        "power_on",
+                        "last"
+                    ]
+                }
+            },
+            "40": {
+                "code": "light_mode",
+                "type": "Enum",
+                "values": {
+                    "range": [
+                        "relay",
+                        "pos",
+                        "none"
+                    ]
+                }
+            },
+            "41": {
+                "code": "child_lock",
+                "type": "Boolean",
+                "values": {}
+            }
+        },
+        "ip": "10.1.73.88",
+        "version": "3.3"
+    },
+    {
+        "name": "Smart Outdoor Plug 2",
+        "id": "eb70e5cea4d82b7468yplq",
+        "key": "9h!:|x}Z=0PBXKm6",
+        "mac": "50:8b:b9:3a:35:5d",
+        "uuid": "07ffc0f1ac9c3cc9",
+        "category": "cz",
+        "product_name": "Smart Outdoor Plug",
+        "product_id": "4ac7sdyiz7fr0eeq",
+        "biz_type": 0,
+        "model": "",
+        "sub": false,
+        "icon": "https://images.tuyaus.com/smart/icon/ay1520841223016QQVmI/6827870b6840a09e3fb3783ebe15d7eb.png",
+        "mapping": {
+            "1": {
+                "code": "switch_1",
+                "type": "Boolean",
+                "values": {}
+            },
+            "9": {
+                "code": "countdown_1",
+                "type": "Integer",
+                "values": {
+                    "unit": "s",
+                    "min": 0,
+                    "max": 86400,
+                    "scale": 0,
+                    "step": 1
+                }
+            },
+            "38": {
+                "code": "relay_status",
+                "type": "Enum",
+                "values": {
+                    "range": [
+                        "power_off",
+                        "power_on",
+                        "last"
+                    ]
+                }
+            },
+            "40": {
+                "code": "light_mode",
+                "type": "Enum",
+                "values": {
+                    "range": [
+                        "relay",
+                        "pos",
+                        "none"
+                    ]
+                }
+            },
+            "41": {
+                "code": "child_lock",
+                "type": "Boolean",
+                "values": {}
+            }
+        },
+        "ip": "10.1.73.87",
+        "version": "3.3"
+    }
+]

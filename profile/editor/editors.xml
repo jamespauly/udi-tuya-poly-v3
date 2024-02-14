@@ -1,0 +1,9 @@
+<editors>
+    <!-- Boolean -->
+    <editor id="bool">
+        <range uom="2" subset="0,1"/>
+    </editor>
+    <editor id="I_SWITCH_STATUS">
+        <range uom="78" subset="0,100,101"/>
+    </editor>
+</editors>

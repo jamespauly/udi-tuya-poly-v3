@@ -1,0 +1,30 @@
+<nodeDefs>
+    <!-- NODE DEF from 5.0 document http://wiki.universal-devices.com/index.php?title=V50_MAIN -->
+    <!-- controller, this must mach the id in your Controller class-->
+    <nodeDef id="tuya" nls="tuyanls">
+        <editors/>
+        <sts>
+            <st id="ST" editor="bool"/>
+        </sts>
+        <cmds>
+            <accepts>
+                <cmd id="QUERY"/>
+                <cmd id="DISCOVER"/>
+            </accepts>
+        </cmds>
+    </nodeDef>
+    <nodeDef id="tuyanode" nls="tuyanodenls">
+        <editors/>
+        <sts>
+            <st id="ST" editor="bool" />
+            <st id="GV0" editor="I_SWITCH_STATUS"/>
+        </sts>
+        <cmds>
+            <accepts>
+                <cmd id="ON"/>
+                <cmd id="OFF"/>
+                <cmd id="QUERY"/>
+            </accepts>
+        </cmds>
+    </nodeDef>
+</nodeDefs>

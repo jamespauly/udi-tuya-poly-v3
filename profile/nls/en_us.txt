@@ -1,0 +1,15 @@
+# controller
+ND-tuya-NAME = Tuya NodeServer Controller
+ND-tuya-ICON = GenericCtl
+CMD-tuyanls-QUERY-NAME = Query
+CMD-tuyanls-DISCOVER-NAME = Discover
+ST-tuyanls-ST-NAME = Tuya NodeServer Running
+
+# daikinnodetype
+ND-tuyanode-NAME = Tuya Device Name
+ND-tuyanode-ICON = Electricity
+CMD-tuyanodenls-QUERY-NAME = Query
+CMD-tuyanodenls-ON-NAME = On
+CMD-tuyanodenls-OFF-NAME = Off
+ST-tuyanodenls-ST-NAME = Node Active
+ST-tuyanodenls-GV0-NAME = Device Status

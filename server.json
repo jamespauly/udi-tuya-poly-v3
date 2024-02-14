@@ -1,0 +1,36 @@
+{
+  "name": "Tuya Smart Devices",
+  "docs": "https://github.com/jamespauly/udi-tuya-poly",
+  "type": "python3",
+  "executable": "udi-tuya-poly.py",
+  "install": "install.sh",
+  "install_cloud": "install_cloud.sh",
+  "description": "Tuya Node Server",
+  "notice": "",
+  "shortPoll": "300",
+  "longPoll": "600",
+  "devMode": true,
+  "profile_version": "3.0.0",
+  "customParams": {
+    "devices": "[{\"name\": \"Backyard Flood Light\", \"id\": \"ebd85577fae5b9605cpvpi\", \"key\": \"fef7d468e4d01d28\"}]"
+  },
+  "credits": [
+    {
+      "title": "Tuya: A Node Server for Controlling Tuya Smart Devices",
+      "author": "James Paul",
+      "version": "1.1.0",
+      "date": "July 16th, 2021",
+      "source": "https://github.com/jamespauly/udi-tuya-poly.git",
+      "license": "https://github.com/jamespauly/udi-tuya-poly/blob/main/LICENSE"
+    }
+  ],
+  "store": {
+    "developer": "jgpaul16@gmail.com",
+    "purchaseOptions": [
+      {
+        "isPerpetual": true,
+        "price": 0.00
+      }
+    ]
+  }
+}
